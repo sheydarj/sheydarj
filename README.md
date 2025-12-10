@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sheydarj" alt="sheydarj" /></a> </p>
 
-- 🌱 I’m currently learning **HTML CSS JS React.js**
+- 🌱 I’m frontend developer (next.js)**
 
 - 📫 How to reach me **sheyda.rajaee123@gmail.com**
 
